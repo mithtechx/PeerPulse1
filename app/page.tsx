@@ -76,7 +76,7 @@ export default function Home() {
 
               <div className="relative z-10 space-y-6 max-w-3xl">
                 <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/15 border border-white/20 text-white backdrop-blur-md text-xs font-black uppercase tracking-wider">
-                  <ShieldCheck className="w-4 h-4 text-blue-200" /> Student Peer Platform
+                  <ShieldCheck className="w-4 h-4 text-blue-200" /> SST Student Workspace
                 </div>
 
                 <h1 className="text-4xl sm:text-6xl font-black tracking-tight leading-tight text-white">
@@ -244,12 +244,12 @@ export default function Home() {
       <footer className="bg-white border-t border-slate-200 py-8 px-6 mt-16 text-slate-600">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4 text-xs font-semibold">
           <div className="flex items-center gap-1.5 text-slate-700 font-bold">
-            Made with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> by Scaler Students
+            Made with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> by Mithilesh Chavhan
           </div>
 
           <div className="flex items-center gap-6">
             <span className="hover:text-[#004AEB] cursor-pointer flex items-center gap-1 transition">
-              <FileText className="w-3.5 h-3.5 text-[#004AEB]" /> Terms & Conditions
+              <FileText className="w-3.5 h-3.5 text-[#004AEB]" /> 
             </span>
             <span className="hover:text-[#004AEB] cursor-pointer flex items-center gap-1 transition">
               <Phone className="w-3.5 h-3.5 text-[#004AEB]" /> Campus Support Contact
@@ -257,7 +257,7 @@ export default function Home() {
           </div>
 
           <div className="text-slate-500">
-            © 2026 Scaler School of Technology. All rights reserved.
+            © 2026 PeerPulse. All rights reserved.
           </div>
         </div>
       </footer>
