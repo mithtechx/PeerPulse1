@@ -275,12 +275,12 @@ export default function Home() {
       <footer className="bg-white border-t border-sky-100 py-8 px-6 mt-16 text-slate-600">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4 text-xs font-semibold">
           <div className="flex items-center gap-1.5 text-slate-700 font-bold">
-            Made with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> by Scaler Students
+            Made with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> by Mithilesh Chavhan
           </div>
 
           <div className="flex items-center gap-6">
             <span className="hover:text-sky-600 cursor-pointer flex items-center gap-1 transition">
-              <FileText className="w-3.5 h-3.5 text-sky-500" /> Terms & Conditions
+              <FileText className="w-3.5 h-3.5 text-sky-500" />
             </span>
             <span className="hover:text-sky-600 cursor-pointer flex items-center gap-1 transition">
               <Phone className="w-3.5 h-3.5 text-sky-500" /> Campus Support Contact
@@ -288,7 +288,7 @@ export default function Home() {
           </div>
 
           <div className="text-slate-600">
-            © 2026 Scaler School of Technology. All rights reserved.
+            
           </div>
         </div>
       </footer>
